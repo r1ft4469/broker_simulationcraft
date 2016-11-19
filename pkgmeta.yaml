@@ -1,0 +1,18 @@
+package-as: broker_simulationcraft
+enable-nolib-creation: no
+
+ignore: # Files and directories beginning with a dot (such as .git) are automatically ignored, as is the pgkmeta file itself.
+    - README.md
+    - CHANGELOG.txt
+    - LICENSE.txt
+    - simcraftscreenshot.jpg
+
+required-dependencies:
+    - 82745-simulationcraft
+
+optional-dependencies:
+    - 4646-pawn
+
+manual-changelog: CHANGELOG.txt
+
+license-output: LICENSE.txt

@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: Broker [|cff00ff00SimulationCraft|r] |cff00aa00@project-version@|r
+## Notes: Broker plugin that opens SimulationCraft
+## Author: r1fT
+## Version: @project-version@
+## Dependencies: Simulationcraft
+broker_simulationcraft.xml
