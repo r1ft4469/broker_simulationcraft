@@ -1,7 +1,8 @@
 -- Titan [SimulationCraft]
 -- Description: Titan plug-in to open Simulation Craft
 -- Author: r1fT
--- Version: @project-version@
+-- Version: v1.0.1.70100
+-- Hash: @project-hash@
 
 LDB = LibStub:GetLibrary("LibDataBroker-1.1")
 local OverallAvg
